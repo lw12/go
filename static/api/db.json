@@ -1,0 +1,417 @@
+{
+    "data": [
+        {
+            "city": "上海",
+            "banner": [
+                "https://img1.baidu.com/it/u=109559822,3656496200&fm=26&fmt=auto&gp=0.jpg",
+                "https://img1.baidu.com/it/u=2047695487,4268266654&fm=26&fmt=auto&gp=0.jpg",
+                "https://img0.baidu.com/it/u=1917931824,1696002147&fm=26&fmt=auto&gp=0.jpg",
+                "https://img1.baidu.com/it/u=2611331985,905008339&fm=26&fmt=auto&gp=0.jpg"
+            ],
+            "iconsList": [
+                {
+                    "id": 1,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "景点门票"
+                },
+                {
+                    "id": 2,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "必游榜单"
+                },
+                {
+                    "id": 3,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/6a/45f595250c73d102.png",
+                    "title": "夏日玩水"
+                },
+                {
+                    "id": 4,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/47/c2b659e048b11602.png",
+                    "title": "主题乐园"
+                },
+                {
+                    "id": 5,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "动植物园"
+                },
+                {
+                    "id": 6,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "东方明珠"
+                },
+                {
+                    "id": 7,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "一日游"
+                },
+                {
+                    "id": 8,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "公园"
+                },
+                {
+                    "id": 9,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "游乐园"
+                },
+                {
+                    "id": 10,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "全部热玩"
+                }
+            ],
+            "activity":[
+              "http://img1.qunarzz.com/piao/fusion/1806/29/30427c0e0658b502.png",
+             " http://img1.qunarzz.com/piao/fusion/1806/36/e89032c5f7714f02.png"
+            ],
+            "hotList": [
+                {
+                    "id": "01",
+                    "img": "//imgs.qunarzz.com/p/p70/1809/e7/4941057a6aae702.jpg_256x160_9fee6ccb.jpg",
+                    "title": "赣州-丽江",
+                    "mark": 282
+                },
+                {
+                    "id": "02",
+                    "img": "//imgs.qunarzz.com/p/p45/1809/22/d815539e74dc4a02.jpg_256x160_00a6f984.jpg",
+                    "title": "赣州-厦门",
+                    "mark": 1750
+                },
+                {
+                    "id": "03",
+                    "img": "//imgs.qunarzz.com/p/p67/1512/a2/0ebfcd965b9391f7.jpg_256x160_04d5813d.jpg",
+                    "title": "赣州-三亚",
+                    "mark": 2252
+                },
+                {
+                    "id": "04",
+                    "img": "//imgs.qunarzz.com/p/p14/201302/28/218ac6605f1d637f93835fbb.jpg_256x160_bfee6c2d.jpg",
+                    "title": "赣州-桂林",
+                    "mark": 3699
+                }
+            ],
+            "likeList": [
+                {
+                    "img": "//img1.qunarzz.com/sight/p0/201405/12/51b63883c25f5d87af3c08bb016e2bd7.jpg_256x160_2c506073.jpg",
+                    "title": "恭王府",
+                    "price": 42,
+                    "message": 1314,
+                    "address":"北京市"
+                },
+                {
+                    "img": "//img1.qunarzz.com/sight/p0/2005/39/3979f1867defec4ea3.water.jpg_256x160_6ae804bb.jpg",
+                    "title": "八达岭长城",
+                    "price": 40,
+                    "message": 1916,
+                    "address":"延庆区"
+                },
+                {
+                    "img": "//img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_256x160_f977b5d4.jpg",
+                    "title": "故宫",
+                    "price": 56,
+                    "message": 3263,
+                    "address":"紫禁城"
+                },
+                {
+                    "img": "//img1.qunarzz.com/sight/p0/1505/f5/f5f45e1a83537bcb.water.jpg_256x160_618d3a8e.jpg",
+                    "title": "圆明园",
+                    "price": 10,
+                    "message": 2543,
+                    "address":"海淀区"
+                }
+            ],
+            "vacation": [
+                {
+                    "img": "https://imgs.qunarzz.com/sight/source/1606/7d/451ad0850c83cb.jpg_r_640x214_31d053e9.jpg",
+                    "title": "经典漂流地",
+                    "message": "这个夏天周边湿身游，现在就GO"
+                },
+                {
+                    "img": "https://imgs.qunarzz.com/sight/source/1811/24/30f714149293b6.jpg_r_640x214_bfa37f12.jpg",
+                    "title": "狮子峰等你",
+                    "message": "有黄山之险，悬崖峭壁，这里有满山的翠竹、青藤，堪称人间仙境世外桃源"
+                },
+                {
+                    "img": "https://imgs.qunarzz.com/sight/source/1603/13/eab38d3176c6cc.jpg_r_640x214_acdb891e.jpg",
+                    "title": "上饶必游TOP10",
+                    "message": "这是一座充满幸福感的城市"
+                },
+                {
+                    "img": "https://imgs.qunarzz.com/sight/source/1606/44/19689f8a01f5b2.jpg_r_640x214_7959e855.jpg",
+                    "title": "九江打卡",
+                    "message": "有2200多年历史的江南文化名城"
+                }
+            ]
+        },
+        {
+            "city": "深圳",
+            "banner": [
+                "https://img1.baidu.com/it/u=109559822,3656496200&fm=26&fmt=auto&gp=0.jpg",
+                "https://img1.baidu.com/it/u=2047695487,4268266654&fm=26&fmt=auto&gp=0.jpg",
+                "https://img0.baidu.com/it/u=1917931824,1696002147&fm=26&fmt=auto&gp=0.jpg",
+                "https://img1.baidu.com/it/u=2611331985,905008339&fm=26&fmt=auto&gp=0.jpg"
+            ],
+            "iconsList": [
+                {
+                    "id": 1,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "深圳"
+                },
+                {
+                    "id": 2,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "必游榜单"
+                },
+                {
+                    "id": 3,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/6a/45f595250c73d102.png",
+                    "title": "夏日玩水"
+                },
+                {
+                    "id": 4,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/47/c2b659e048b11602.png",
+                    "title": "主题乐园"
+                },
+                {
+                    "id": 5,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "动植物园"
+                },
+                {
+                    "id": 6,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "深圳"
+                },
+                {
+                    "id": 7,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "一日游"
+                },
+                {
+                    "id": 8,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "公园"
+                },
+                {
+                    "id": 9,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "游乐园"
+                },
+                {
+                    "id": 10,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "全部热玩"
+                }
+            ],
+            "hotList": [
+                {
+                    "id": "01",
+                    "img": "//imgs.qunarzz.com/p/p70/1809/e7/4941057a6aae702.jpg_256x160_9fee6ccb.jpg",
+                    "title": "赣州-丽江",
+                    "mark": 282
+                },
+                {
+                    "id": "02",
+                    "img": "//imgs.qunarzz.com/p/p45/1809/22/d815539e74dc4a02.jpg_256x160_00a6f984.jpg",
+                    "title": "赣州-厦门",
+                    "mark": 1750
+                },
+                {
+                    "id": "03",
+                    "img": "//imgs.qunarzz.com/p/p67/1512/a2/0ebfcd965b9391f7.jpg_256x160_04d5813d.jpg",
+                    "title": "赣州-三亚",
+                    "mark": 2252
+                },
+                {
+                    "id": "04",
+                    "img": "//imgs.qunarzz.com/p/p14/201302/28/218ac6605f1d637f93835fbb.jpg_256x160_bfee6c2d.jpg",
+                    "title": "赣州-桂林",
+                    "mark": 3699
+                }
+            ],
+            "likeList": [
+                {
+                    "img": "//img1.qunarzz.com/sight/p0/201405/12/51b63883c25f5d87af3c08bb016e2bd7.jpg_256x160_2c506073.jpg",
+                    "title": "恭王府",
+                    "price": 42,
+                    "message": 1314
+                },
+                {
+                    "img": "//img1.qunarzz.com/sight/p0/2005/39/3979f1867defec4ea3.water.jpg_256x160_6ae804bb.jpg",
+                    "title": "八达岭长城",
+                    "price": 40,
+                    "message": 1916
+                },
+                {
+                    "img": "//img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_256x160_f977b5d4.jpg",
+                    "title": "故宫",
+                    "price": 56,
+                    "message": 3263
+                },
+                {
+                    "img": "//img1.qunarzz.com/sight/p0/1505/f5/f5f45e1a83537bcb.water.jpg_256x160_618d3a8e.jpg",
+                    "title": "圆明园",
+                    "price": 10,
+                    "message": 2543
+                }
+            ],
+            "vacation": [
+                {
+                    "img": "https://imgs.qunarzz.com/sight/source/1606/7d/451ad0850c83cb.jpg_r_640x214_31d053e9.jpg",
+                    "title": "田子坊",
+                    "message": "由上海特有的石库门建筑群改建而成，是不少文人艺术家的创意工作基地"
+                },
+                {
+                    "img": "https://imgs.qunarzz.com/sight/source/1811/24/30f714149293b6.jpg_r_640x214_bfa37f12.jpg",
+                    "title": "外滩",
+                    "message": "上海城市象征意义的景点，风格迥异的万国建筑群和浦江夜景是精华所在"
+                },
+                {
+                    "img": "https://imgs.qunarzz.com/sight/source/1603/13/eab38d3176c6cc.jpg_r_640x214_acdb891e.jpg",
+                    "title": "东平路",
+                    "message": "东平路，一条栖息在上海繁华地段的僻静小路，梧桐葱茏，庭院幽深"
+                },
+                {
+                    "img": "https://imgs.qunarzz.com/sight/source/1606/44/19689f8a01f5b2.jpg_r_640x214_7959e855.jpg",
+                    "title": "新场古镇",
+                    "message": "古时的这里曾是繁华的盐场与盐市，如今依然保留着大量的明清建筑"
+                }
+            ]
+        },
+        {
+            "city": "香港",
+            "banner": [
+                "https://img1.baidu.com/it/u=109559822,3656496200&fm=26&fmt=auto&gp=0.jpg",
+                "https://img1.baidu.com/it/u=2047695487,4268266654&fm=26&fmt=auto&gp=0.jpg",
+                "https://img0.baidu.com/it/u=1917931824,1696002147&fm=26&fmt=auto&gp=0.jpg",
+                "https://img1.baidu.com/it/u=2611331985,905008339&fm=26&fmt=auto&gp=0.jpg"
+            ],
+            "iconsList": [
+                {
+                    "id": 1,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "景点热门"
+                },
+                {
+                    "id": 2,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "当地玩热"
+                },
+                {
+                    "id": 3,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/6a/45f595250c73d102.png",
+                    "title": "城市景光"
+                },
+                {
+                    "id": 4,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/47/c2b659e048b11602.png",
+                    "title": "香港电话卡"
+                },
+                {
+                    "id": 5,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "交通"
+                },
+                {
+                    "id": 6,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "香港迪士尼"
+                },
+                {
+                    "id": 7,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "海洋公园"
+                },
+                {
+                    "id": 8,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "香港杜莎"
+                },
+                {
+                    "id": 9,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "游乐园"
+                },
+                {
+                    "id": 10,
+                    "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+                    "title": "全部热玩"
+                }
+            ],
+            "hotList": [
+                {
+                    "id": "01",
+                    "img": "//imgs.qunarzz.com/p/p70/1809/e7/4941057a6aae702.jpg_256x160_9fee6ccb.jpg",
+                    "title": "赣州-丽江",
+                    "mark": 282
+                },
+                {
+                    "id": "02",
+                    "img": "//imgs.qunarzz.com/p/p45/1809/22/d815539e74dc4a02.jpg_256x160_00a6f984.jpg",
+                    "title": "赣州-厦门",
+                    "mark": 1750
+                },
+                {
+                    "id": "03",
+                    "img": "//imgs.qunarzz.com/p/p67/1512/a2/0ebfcd965b9391f7.jpg_256x160_04d5813d.jpg",
+                    "title": "赣州-三亚",
+                    "mark": 2252
+                },
+                {
+                    "id": "04",
+                    "img": "//imgs.qunarzz.com/p/p14/201302/28/218ac6605f1d637f93835fbb.jpg_256x160_bfee6c2d.jpg",
+                    "title": "赣州-桂林",
+                    "mark": 3699
+                }
+            ],
+            "likeList": [
+                {
+                    "img": "//img1.qunarzz.com/sight/p0/201405/12/51b63883c25f5d87af3c08bb016e2bd7.jpg_256x160_2c506073.jpg",
+                    "title": "恭王府",
+                    "price": 42,
+                    "message": 1314
+                },
+                {
+                    "img": "//img1.qunarzz.com/sight/p0/2005/39/3979f1867defec4ea3.water.jpg_256x160_6ae804bb.jpg",
+                    "title": "八达岭长城",
+                    "price": 40,
+                    "message": 1916
+                },
+                {
+                    "img": "//img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_256x160_f977b5d4.jpg",
+                    "title": "故宫",
+                    "price": 56,
+                    "message": 3263
+                },
+                {
+                    "img": "//img1.qunarzz.com/sight/p0/1505/f5/f5f45e1a83537bcb.water.jpg_256x160_618d3a8e.jpg",
+                    "title": "圆明园",
+                    "price": 10,
+                    "message": 2543
+                }
+            ],
+            "vacation": [
+                {
+                    "img": "https://imgs.qunarzz.com/sight/source/1606/7d/451ad0850c83cb.jpg_r_640x214_31d053e9.jpg",
+                    "title": "田子坊",
+                    "message": "由上海特有的石库门建筑群改建而成，是不少文人艺术家的创意工作基地"
+                },
+                {
+                    "img": "https://imgs.qunarzz.com/sight/source/1811/24/30f714149293b6.jpg_r_640x214_bfa37f12.jpg",
+                    "title": "外滩",
+                    "message": "上海城市象征意义的景点，风格迥异的万国建筑群和浦江夜景是精华所在"
+                },
+                {
+                    "img": "https://imgs.qunarzz.com/sight/source/1603/13/eab38d3176c6cc.jpg_r_640x214_acdb891e.jpg",
+                    "title": "东平路",
+                    "message": "东平路，一条栖息在上海繁华地段的僻静小路，梧桐葱茏，庭院幽深"
+                },
+                {
+                    "img": "https://imgs.qunarzz.com/sight/source/1606/44/19689f8a01f5b2.jpg_r_640x214_7959e855.jpg",
+                    "title": "新场古镇",
+                    "message": "古时的这里曾是繁华的盐场与盐市，如今依然保留着大量的明清建筑"
+                }
+            ]
+        }
+    ]
+}

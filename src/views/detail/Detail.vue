@@ -1,0 +1,28 @@
+<template>
+  <div>
+    <detail-banner>   </detail-banner>
+     <detail-header> 
+    
+    </detail-header>
+    <div style="height:2000px;"></div>
+  </div>
+</template>
+
+<script>
+import DetailHeader from "./childDetails/Header";
+import DetailBanner from './childDetails/Banner.vue';
+
+export default {
+  name: "Detail",
+  components: { 
+      DetailBanner,
+      DetailHeader ,
+      },
+      activated(){
+        document.documentElement.scrollTop=0
+      }
+};
+</script>
+
+<style>
+</style>
